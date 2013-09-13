@@ -2,7 +2,7 @@
 use POSIX ":sys_wait_h";
 use IO::Handle;
 use strict;
-use Text::CSV;
+
 
 my $size = -s "HW-1-4(e)-redo-dd.001";
 
